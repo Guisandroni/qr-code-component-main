@@ -19,7 +19,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 400px;
+  width: 300px;
   border-radius: 18px;
   padding-top: 20px;
 }
@@ -30,14 +30,14 @@
 }
 
 img {
-  height: 350px;
-  width: 350px;
+  height: 320px;
+  width: 250px;
   border-radius: 18px;
 }
 
 .body {
   font-size: 15px;
-  padding: 20px;
+  padding: 0px 20px;
   text-align: center;
   color: hsl(218, 44%, 22%);
   height: 220px;
@@ -48,10 +48,11 @@ img {
   font-size: 20px;
   padding: 20px;
   color: hsl(218, 44%, 22%);
-  font-family: bolder 20px "Outfit", sans-serif;
+  font-family: "Outfit", sans-serif;
 }
 
 .body > p {
-  font-family: 12px "Outfit", sans-serif;
+  font-family: "Outfit", sans-serif;
   color: hsl(220, 15%, 55%);
+  padding: 0px 20px;
 }
